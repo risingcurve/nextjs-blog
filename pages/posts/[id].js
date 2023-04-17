@@ -31,7 +31,7 @@ export async function getStaticPaths() {
     },
 
     // paths,
-    // fallback: false,
+    fallback: false,
   };
 }
 
